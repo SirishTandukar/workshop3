@@ -1,0 +1,45 @@
+/*element selector*/
+h1{
+    color: #9E6730;
+border: 3px solid #ccc;
+
+}
+
+/*id selector*/
+#Intro{
+    border: 3px solid #ccc;
+    background-color: #EACCAD;
+}
+#EducationHistory
+{
+    border: 3px solid #ccc;
+background-color: #EACCAD;
+}
+#HobbiesandInterest{
+    border: 3px solid #ccc;
+    background-color: #EACCAD;
+}
+#Contacts
+{
+    border: 3px solid #ccc;
+    background-color: #EACCAD;
+}
+
+/*class selector*/
+.contacts{
+    margin: auto;
+}
+
+/*univerrsal selector*/
+*{
+    background-color: #EACCAD;
+}
+
+/*attribute  selector*/
+a[href]
+{
+    color: black;
+    font-size: smaller;
+    font-weight: bold;
+    font-style: italic;
+}
